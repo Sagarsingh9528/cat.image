@@ -1,0 +1,35 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+body{
+    height: 100vh;
+    width: 100vh;
+    background-color: black;
+}
+.root{
+    margin-left: 32rem;
+    width: 20rem;
+    justify-content: space-between;
+    /* height: 2rem; */
+    /* width: 2rem; */
+    margin-top: 2rem;
+}
+.cat{
+    background-color: #fff;
+    display: inline;
+    float: left;
+    margin-left: rem;
+    /* flex-wrap: wrap; */
+    width: 79rem;
+    height: 50rem;
+    justify-content: space-around;
+    margin-top: 5rem;
+
+
+}
+/* .div{
+    width: 50rem;
+    height: 5rem;
+    display: inline-block;
+} */

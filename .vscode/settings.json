@@ -1,0 +1,10 @@
+{
+    "github.experimental.multipleAccounts": true,
+    "git.allowForcePush": true,
+    "git.alwaysShowStagedChangesResourceGroup": true,
+    "git.alwaysSignOff": true,
+    "git.autofetch": "all",
+    "git.autoStash": true,
+    "git.branchRandomName.enable": true,
+    "git.closeDiffOnOperation": true
+}
